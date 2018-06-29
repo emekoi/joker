@@ -1,4 +1,4 @@
-import jester, asyncdispatch, strutils
+import jester, asyncdispatch, htmlgen, strutils
 
 const
   html = """

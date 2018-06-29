@@ -2,7 +2,7 @@
 
 version       = "0.1.0"
 author        = "emekoi"
-description   = "an example of using karax and jester"
+description   = "an example of using karax with jester"
 license       = "MIT"
 srcDir        = "src"
 binDir        = "bin"

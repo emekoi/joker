@@ -7,6 +7,6 @@ proc createDom(): VNode =
         h1(class = "title"):
           text "joker"
         h1(class = "subtitle"):
-          text "an example of using karax and jester"
+          text "an example of using karax with jester"
 
 setRenderer createDom
